@@ -8,6 +8,6 @@ yarn-error.log*
 .idea
 .vscode
 *.suo
-*.ntvs*1
+*.ntvs*
 *.njsproj
 *.sln
